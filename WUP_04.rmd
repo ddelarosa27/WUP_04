@@ -53,7 +53,7 @@ basicCN <- ggplot(gssdata,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
   
-The LT HIGH SCHOOL box is different from the GRADUATE and JUNIOR COLLEGE boxes, if i was to stack them up they would stack perfectly becaue they are all in different sections of the graphs WORDSUM section meaning they are all different. 
+The LT HIGH SCHOOL box is different from the GRADUATE and JUNIOR COLLEGE boxes, if i was to stack them up they would stack perfectly becaue they are all in different sections of the graphs WORDSUM section meaning they are all different.  
 
 ### Numerical Descriptive Results
 
